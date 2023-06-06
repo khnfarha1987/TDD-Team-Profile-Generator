@@ -1,4 +1,4 @@
-// test folder for Employee.test.js
+// created file for Employee.test.js
 const Employee = require("../lib/Employee");
 
 test("Can instantiate Employee instance", () => {

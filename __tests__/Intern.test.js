@@ -1,3 +1,4 @@
+// created file for Intern.test.js
 const Intern = require("../lib/Intern");
 
 test("Can set school via constructor", () => {
