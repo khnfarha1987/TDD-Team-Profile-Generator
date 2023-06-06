@@ -1,19 +1,17 @@
 # Test-Driven Development: Team Profile Generator
 Challenge 12 : In this Challenge, we'll create an application that generates HTML files using input from a command-line interface.
 
-# Table of Contents
-
+# Table of Contents:
 - [Test-Driven Development: Team Profile Generator](#test-driven-development-team-profile-generator)
-- [Table of Contents](#table-of-contents)
-- [Application GitHub URL:](#application-github-url)
+- [Table of Contents:](#table-of-contents)
 - [User Story](#user-story)
 - [Project Requirements](#project-requirements)
 - [Project Description](#project-description)
 - [Image Link of this Project:](#image-link-of-this-project)
 - [Video Links of this Project:](#video-links-of-this-project)
+- [Application GitHub URL:](#application-github-url)
 - [Application Deployed live URL:](#application-deployed-live-url)
 
-# Application GitHub URL:
 
 # User Story
   * AS A manager
@@ -97,7 +95,17 @@ Challenge 12 : In this Challenge, we'll create an application that generates HTM
   * In addition to building the application, this project also required the use of Jest and Inquirer to conduct unit tests of every part of the code to ensure that it would pass each test. A demonstration of the node application and the testing is shown below.
   
 # Image Link of this Project:
+![alt](./images/img-1.png)
+
+![alt](./images/img-2.png)
+
+![alt](./images/img-3.png)
 
 # Video Links of this Project:
+![alt](./images/mov.gif)
+
+# Application GitHub URL:
+[README Generator GitHub Link](https://github.com/khnfarha1987/TDD-Team-Profile-Generator)
 
 # Application Deployed live URL:
+[README Generator Deployed Link](https://khnfarha1987.github.io/Readme-Generator-node.js/)
