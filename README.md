@@ -1,6 +1,20 @@
 # Test-Driven Development: Team Profile Generator
 Challenge 12 : In this Challenge, we'll create an application that generates HTML files using input from a command-line interface.
 
+# Table of Contents
+
+- [Test-Driven Development: Team Profile Generator](#test-driven-development-team-profile-generator)
+- [Table of Contents](#table-of-contents)
+- [Application GitHub URL:](#application-github-url)
+- [User Story](#user-story)
+- [Project Requirements](#project-requirements)
+- [Project Description](#project-description)
+- [Image Link of this Project:](#image-link-of-this-project)
+- [Video Links of this Project:](#video-links-of-this-project)
+- [Application Deployed live URL:](#application-deployed-live-url)
+
+# Application GitHub URL:
+
 # User Story
   * AS A manager
   * I WANT to generate a webpage that displays my team's basic info
@@ -81,3 +95,9 @@ Challenge 12 : In this Challenge, we'll create an application that generates HTM
   * The objective for this project was to build a Node.js command-line application that takes in information about employees on a software engineering team, and with that information generates an HTML webpage that displays the user input data.
   * One requirement of the application was to make use of Constructors and Classes to create the employee objects. Among these were the Employee, Manager, Engineer, and Intern classes.
   * In addition to building the application, this project also required the use of Jest and Inquirer to conduct unit tests of every part of the code to ensure that it would pass each test. A demonstration of the node application and the testing is shown below.
+  
+# Image Link of this Project:
+
+# Video Links of this Project:
+
+# Application Deployed live URL:
