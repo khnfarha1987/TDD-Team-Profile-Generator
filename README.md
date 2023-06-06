@@ -7,6 +7,7 @@ Challenge 12 : In this Challenge, we'll create an application that generates HTM
 - [User Story](#user-story)
 - [Project Requirements](#project-requirements)
 - [Project Description](#project-description)
+- [Technologies Used](#technologies-used)
 - [Image Links of this Project:](#image-links-of-this-project)
 - [Video Link of this Project:](#video-link-of-this-project)
 - [Application GitHub URL:](#application-github-url)
@@ -94,6 +95,15 @@ Challenge 12 : In this Challenge, we'll create an application that generates HTM
   * One requirement of the application was to make use of Constructors and Classes to create the employee objects. Among these were the Employee, Manager, Engineer, and Intern classes.
   * In addition to building the application, this project also required the use of Jest and Inquirer to conduct unit tests of every part of the code to ensure that it would pass each test. A demonstration of the node application and the testing is shown below.
   
+# Technologies Used
+  * HTML
+  * CSS
+  * Bootstrap
+  * JavaScript
+  * Node.js
+  * Jest
+  * Inquirer
+
 # Image Links of this Project:
 ![alt](./images/img-1.png)
 
