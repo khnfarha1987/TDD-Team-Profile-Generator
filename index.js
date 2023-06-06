@@ -13,8 +13,8 @@ const generateTeam = require("./src/page-template.js")
 
 // TODO: Write Code to gather information about the development team members, and render the HTML file.
 
+// create array for team details***
 teamArray = [];
-
 
 
 function runApp() {
@@ -47,6 +47,7 @@ function runApp() {
     function addManager() {
         inquirer.prompt([
 
+            // questions for manager***
             {
                 type: "input",
                 name: "managerName",
@@ -83,6 +84,7 @@ function runApp() {
     function addEngineer() {
         inquirer.prompt([
 
+            // questions for engineer***
             {
                 type: "input",
                 name: "engineerName",
@@ -118,6 +120,7 @@ function runApp() {
     function addIntern() {
         inquirer.prompt([
 
+            // question for intern***
             {
                 type: "input",
                 name: "internName",
