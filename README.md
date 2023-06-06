@@ -108,4 +108,4 @@ Challenge 12 : In this Challenge, we'll create an application that generates HTM
 [README Generator GitHub Link](https://github.com/khnfarha1987/TDD-Team-Profile-Generator)
 
 # Application Deployed live URL:
-[README Generator Deployed Link](https://khnfarha1987.github.io/Readme-Generator-node.js/)
+[README Generator Deployed Link](https://khnfarha1987.github.io/TDD-Team-Profile-Generator/output/team.html)
